@@ -4,7 +4,6 @@
 # 💫 About Me:
 🔭 I’m currently working on React Native<br>🌱 I’m currently learning ReactJs, React Native, And Python<br>💬 Ask me about Entrepreneurship<br>⚡ Fun fact I'm a Much More Self Taught Developer
 
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/bhuvan.soni.351) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheBhuvan24) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thebhuvansoni24) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@TheBhuvan24) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheBhuvan24) 
 
