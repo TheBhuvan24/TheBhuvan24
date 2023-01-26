@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm Bhuvan Soni</h1>
+<h3 align="center">Less Is More</h3>
+
 # 💫 About Me:
 🔭 I’m currently working on React Native<br>🌱 I’m currently learning ReactJs, React Native, And Python<br>💬 Ask me about Entrepreneurship<br>⚡ Fun fact I'm a Much More Self Taught Developer
 
