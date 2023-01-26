@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bhuvan Soni</h1>
+<h1 align="center">Hello 👋, I'm Bhuvan Soni</h1>
 <h3 align="center">Less Is More</h3>
 
 # 💫 About Me:
